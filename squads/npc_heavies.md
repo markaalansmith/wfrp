@@ -58,6 +58,8 @@
 
 ### **Wealth Ledger**
 * **Total Gold:** 6 Gold Crowns, 6 Shillings, 8 Pennies each.
+* ** +50 Gold from the Graf in the Palace as a reward* 
+* ** +10 Gold from the skaven & liberated traitor loot*
 
 ### **Knick-Knacks (The "Veteran's Iron")**
 * **Rations:** Slabs of smoked venison (Heavy, salt-cured).

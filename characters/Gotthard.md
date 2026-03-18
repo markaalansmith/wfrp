@@ -65,10 +65,12 @@
 +25 XP: Sabotaging the Grand Nest (Square of Martials).
 +25 XP: Capturing "The Golden Hand" alive.
 +25 XP: Shattering the Altar Conduit (Ulric’s Favor).
++150 XP: The Middenheim Conclusion. (For the successful arrest of the Senior Under-Scribe, the stabilization of the Central Pier, and securing the Graf's Mandate.)
++25 XP: The Gutter-Shadow’s Diplomacy. (For the audience with the Graf—successfully negotiating for the lads, the Temple, and the Bounty without getting hanged.)
 
 Total XP Gains: 1205 XP
 Total XP Spent: 1200 XP
-RECONCILED BALANCE: 5 XP
+RECONCILED BALANCE: 180 XP
 
 
 
@@ -118,24 +120,30 @@ RECONCILED BALANCE: 5 XP
 
 ### The Professional Kit
 * **Rat-Trapping Kit:** Assorted spring-traps, wire snares, and vials of pungent attractant/bait.
-* **Sewer Map (Looted):** Dried skin showing the "Red Line" conduits of Middenheim.
 * **Scholar's Loupe:** High-quality glass for fine inspection of seals or wounds.
 * **Watchman's Whistle:** High-pitched brass for calling backup.
 * **Lantern & Oil:** Essential for tunnel work.
+* **New flint-and-steel**
 * **15 Yards of Rope:** Standard Watch issue.
+* **Riding Horse** "Borka" (Kislevite Steppe-pony).
+* **Saddle & Tac** High-Quality travel gear.
 
 ### Consumables & Morale
 * **Dwarven Spirits:** High-proof alcohol (Disinfectant/Morale).
 * **1 Bottle of Reikland Gold Wine:** A rare luxury.
 * **2x Dried Sausages:** Rations.
 * **2x Fire-Pots:** Ceramic flask filled with oil and a slow-match.
+* **A heavy supply of "Watch-Grade" tobacco**
+* **Anti-toxins:**Acquired from Janna Eberhau
 
 ### The "High-Logic" & Arcane
 * **Magister’s "Easy Logic" Lens:** A small magically-ground monocle on a leather cord. Peer through to see Magical Auras or Warp-Taint through up to 1 foot of solid stone or wood ($+20\%$ Perception for magical traps/secret doors).
 * **Meteoric Wolf Amulet:** Provides $+10\%$ Magic Resistance vs Chaos/Warp Magic and a permanent $+1$ to all Willpower tests vs corruption/mutation.
 * **Brass Warp-Whistle:** Jagged, pulsing with sickly warmth. Triggers Skaven "frequencies."
-* **Vial of "Liquid Fear":** An oily, unsettling Skaven concoction.
+* **Wolf-Paw Talisman:**A dried paw on a leather cord. It provides a permanent $+10\%$ to all Fear/Terror tests
+* **2x Vial of "Liquid Fear":** An oily, unsettling Skaven concoction.
 * **2x Healing Potions:** (College of Magic) Tucked in a reinforced belt pouch.
+* **2x Vials of Blessed Oil:** Can be applied to a weapon to deal an extra $1d6$ damage to Undead or Chaos-tainted creatures for one combat
 
 ### Uniform & Finery (The "Living Legend" Look)
 * **Sturdy Wool Tunic:** Deep, practical forest green with bone buttons and reinforced stitching.
@@ -150,30 +158,29 @@ RECONCILED BALANCE: 5 XP
 ## VI. WEALTH & REPUTATION
 
 ### Wealth Ledger
-* **Personal Stash:** 257 Gold Crowns, 10 Shillings, 4 Pennies.
-* **Scrap:** 4x Gold-filled teeth (Est. 15s).
-* **Jewelry:** 2 Silver Serpent Rings, Gold Signet Ring (extinct house), Silver-and-sapphire cravat pin, 6 flawless pearls.
+* **Personal Stash:** 380 Gold Crowns, 5 Shillings, 4 Pennies;
+
 
 ### Reputation & Standings
 
 | Faction | Standing | Mechanical Effect |
 | :--- | :--- | :--- |
-| **North District Watch** | "The Giant-Killer" | $+20\%$ Fel tests. Men will follow your lead into a furnace. |
-| **Temple of Ulric** | "White Wolf’s Warden" | $+15\%$ Fel tests. Priests see you as Ulric’s own hound. |
-| **Common Folk** | "The Giant-Killer" | $+10\%$ Fel tests. Tavern-goers buy you a pint. |
-| **Military (Marshals)** | "Protege" | $+10\%$ Fel tests. Seen as a gritty, essential asset. |
-| **High Society** | "That Rat-Catcher" | $-10\%$ Fel tests. You smell of tunnels and gutter-rasp. |
-| **Under-City** | "The Gutter-Blight" | **Fear:** Captured Skaven/Cultists must pass Cool Test or be Intimidated. |
-
+| **Dwarfen Engineers** | **MAX (Blood-Brother)** | **+25% Fel tests / Auto-Success on 'Social' Lore.** Grumli’s kin will hide, arm, or dig a hole for you anywhere in the Empire. |
+| **North District Watch** | "The Giant-Killer" | **+20% Fel tests.** Men will follow your lead into a furnace (or a sewer). |
+| **Temple of Ulric** | "The Wolf’s Warden" | **+20% Fel tests.** Priests see you as Ulric’s own hound. You have the "Wolf's Favor" (Blessing). |
+| **Common Folk** | "The Giant-Killer" | **+15% Fel tests.** The "Skaven-Bounty" has made you a hero of the taverns. Pints are on the house. |
+| **Military (Marshals)** | "Protege" | **+10% Fel tests.** Seen as a gritty, essential asset who gets the "shambles" done. |
+| **High Society** | "The Shadow" | **0% Fel Penalty.** No longer loathed; now feared. The Graf's seal provides "Diplomatic Friction." |
+| **Under-City** | "The Gutter-Blight" | **Fear:** Captured Skaven/Cultists must pass Cool Test (-20) or be Intimidated. |
 ---
 
 ## VII. STATUS & COMPANION
 * **Health Audit:** CLEAN. No Tunnel Cough, No Warp-Taint, Fully Rested. Wounds: 7/7.
 * **Companion (Snapper):** Small But Vicious Dog. Wire-haired Terrier with intelligent black eyes and large teeth. Trots three inches from Gotthard’s left boot. Has a small leather pouch for "victory sausages."
 * **Trophy:** Rat Ogre Iron Collar & Teeth. Mounted over the hearth in the Sergeant’s Barracks.
+* **The High Priest’s Blessing:** You gain a +10 bonus to your next Fate Point reroll.
 
 
 ## VIII. Items "Pending Processing"
-* Weeping Blade, Grey Key, Warp-Token, Ledger | Loot: Palace Node
-* 2x Rusted Plate, 2x Skaven Halberds | Loot: Reik-Pipe Brutes
-* Warp-Hammer | Capture: Master-Toller’s Hammer
+
+

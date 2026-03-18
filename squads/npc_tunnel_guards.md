@@ -65,6 +65,8 @@
     * 20gc (The Vault/Flood Bonus)
     * 15gc (The Market Scuffle/Rewards)
     * 3gc 6s 8d (The Mansion split)
+* ** +50 Gold from the Graf in the Palace as a reward* 
+* ** +10 Gold from the skaven & liberated traitor loot*
 
 ### **Knick-Knacks (The "Watchman's Comforts")**
 * 1x "Victory Sausage" (A barracks tradition).

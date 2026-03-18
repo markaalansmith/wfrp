@@ -57,6 +57,9 @@
 * **Thrain's Sapper Pouch:** 12x Specialized chisels, fine-wire probes, sounding-hammers, and a small vial of "Rock-Eater" acid.
 * **General:** High-proof Dwarfen ale, stone-bread (rations), and heavy-duty lanterns.
 
+### **Loot**
+* ** +50 Gold from the Graf in the Palace as a reward* 
+* ** +10 Gold from the skaven & liberated traitor loot*
 ---
 
 ## V. TACTICAL NOTE

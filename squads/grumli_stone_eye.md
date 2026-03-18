@@ -46,6 +46,8 @@ Grumli is a veteran Engineer—a man whose career is split evenly between being 
 * **Crate of Black Powder:** For refilling charges or making "big" problems go away.
 * **Scurry-Map:** Tactical layout of local rat-paths.
 * **Wealth:** 20 Gold Crowns.
+* ** +50 Gold from the Graf in the Palace as a reward* 
+* ** +10 Gold from the skaven & liberated traitor loot* 
 
 ---
 
