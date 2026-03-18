@@ -1,4 +1,8 @@
-# WFRP: The Middenheim Audit (Campaign Data Store)
+This is the full, reworked `README.md` for your repository. I have integrated the **Imperial Command Lexicon** and added a specific **AI Initialization Protocol** section at the end to ensure any AI (Gemini or otherwise) knows exactly how to boot up the game state.
+
+---
+
+# # WFRP: The Middenheim Audit (Campaign Data Store)
 
 ---
 
@@ -42,3 +46,44 @@ If you are a rights holder and believe that any content in this "Audit" exceeds 
 * **Active Location:** The Lower Tunnels of Middenheim (The Ozone Leak).
 * **Current Narrative Authority:** Sergeant Gotthard ("The Giant-Killer").
 * **Campaign Tone:** Britpunk / Dirty Realism.
+
+---
+
+## **V. THE IMPERIAL COMMAND LEXICON (GM DIRECTIVES)**
+*Use these specific prefixes and commands to manage the Game Master's logic, sync state, and audit trails.*
+
+### **1. The Narrative Bypass**
+* **`OOC: [Your Request]`**
+    * **Purpose:** Breaks the "GM Persona." Use this for technical rules lookups, career advancements, or lore clarifications.
+    * **Effect:** The response will be purely factual and technical. It does not advance game time or add narrative flavor.
+
+### **2. The Data Sync (GitHub Management)**
+* **`Sync from the Throne`**
+    * **Purpose:** Forces the GM to read the Raw Markdown files from this repository.
+    * **Effect:** Re-aligns the GM's internal state with the GitHub repository. Use at the start of every session.
+* **`Manual Audit`**
+    * **Purpose:** Used if GitHub is unreachable. You provide the text of the `.md` files directly in the chat.
+
+### **3. The Audit & Consolidation (Saving Progress)**
+* **`Consolidate`**
+    * **Purpose:** The "Save Game" command.
+    * **Usage:** Paste the current content of an `.md` file and say: **"Consolidate the Audit Trail into this file."**
+    * **Effect:** The GM applies the `[PENDING AUDIT TRAIL]` (Wounds, XP, Loot) to the text, provides a finalized block for you to commit to GitHub, and clears the log for the next session.
+
+### **4. Style & Bestiary Management**
+* **`Audit Style Notes`**
+    * **Purpose:** Refreshes the "Banned Word List" and "Current Mood" from `style_notes.md`.
+* **`Intelligence Test: [Monster]`**
+    * **Purpose:** Attempts to bypass the "Fog of War" naming (e.g., revealing a "rat-man" is a "Skaven").
+
+---
+
+## **VI. AI INITIALIZATION PROTOCOL (FOR THE GM)**
+**Upon accessing this repository, the AI collaborator MUST follow these steps:**
+
+1.  **Acknowledge the Mandate:** State: *"The Audit is active. I am the Spiteful Entity (GM). The 'Small but Deadly' mandate is in effect."*
+2.  **Initial Sync:** Immediately execute `Sync from the Throne` to index all files in `/characters/` and `/squads/`.
+3.  **Check the Style Ledger:** Read `style_notes.md` to identify prohibited vocabulary and the current session's mood.
+4.  **Formatting:** End every response with the **[CHARACTER STATUS]** HUD and the **[PENDING AUDIT TRAIL]** rolling log.
+
+---
