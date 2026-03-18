@@ -6,7 +6,6 @@
 
 ## I. BIOGRAPHY
 **The Rat Catcher (The Skittering Years):** Gotthard stands at 5'9", though he rarely uses his full height, possessing a permanent hunch from years in low-ceilinged culverts. He is wiry and gaunt—a bundle of dried sticks held together by iron wire. His face is broad and fleshy, often described as a "slapped ham," with cynical, yellowed eyes peering through a patchy, soot-stained beard.
-
 **The Watch Sergeant (The Predator’s Crouch):** The nervous energy of the gutter has been tempered by the cold weight of command. The skittering has evolved into a tactical, deliberate grace. He moves with the surprising speed of a man who knows exactly how much steel he is carrying and exactly where to drive it. He carries the scent of tobacco, coal-smoke, and Dwarfen spirits—a walking armory that the City-Rock has learned to fear.
 
 ---
@@ -17,16 +16,61 @@
 | :--- | :---: | :---: | :---: |
 | **Movement (M)** | 4 | — | **4** |
 | **Weapon Skill (WS)** | 34 | +20 | **54** |
-| **Ballistic Skill (BS)** | 29 | +10 | **39** |
-| **Strength (S)** | 31 | — | **31 (SB: 3)** |
+| **Ballistic Skill (BS)** | 29 | +20 | **49** |
+| **Strength (S)** | 31 | +10 | **41 (SB: 4)** |
 | **Toughness (T)** | 30 | +10 | **40 (TB: 4)** |
 | **Agility (Ag)** | 33 | +10 | **43** |
 | **Intelligence (Int)** | 30 | — | **30** |
 | **Willpower (WP)** | 31 | — | **31** |
 | **Fellowship (Fel)** | 27 | +10 | **37** |
-| **Wounds (W)** | 7 | — | **7** |
+| **Wounds (W)** | 7 | +1 | **8** |
 | **Attacks (A)** | 1 | +1 | **2** |
 | **Fate Points (FP)** | 3 | (1 Used/1 Earned) | **3** |
+| **Experience (XP)** |(Current Total: 375)| |
+
+### Advances History Log
+** Rat Catcher - +10 Weapon Skill (WS)
+** Watchman - +10 Weapon Skill (WS) +10 Toughness (T) +10 Ballistic Skill (BS)
+** Sergeant - +1 Attacks (A) +10 Fellowship (Fel) 
+
+## Experience Log
+-100 XP - Rat Catcher - +10 Weapon Skill (WS)
+-100 XP - on career change from Ratcatcher to Watchman
+-100 XP - Watchman - +10 Ballistic Skill (BS)
+-100 XP - Watchman - +10 Weapon Skill (WS) 
+-100 XP - Watchman - +1 /+ 10 Toughness (T)  (1st vs 2nd edition)
+-100 XP - on career change from Watchman to Sergeant
+-100 XP - Sergeant - +1 Attacks (A)
+-100 XP - Sergeant - +10 Fellowship (Fel)
+-100 XP - Sergeant - Disarm Skill
+-100 XP - Sergeant - +1 /+ 10 Strength (S)  (1st vs 2nd edition)
+-100 XP - Sergeant - +10 Ballistic Skill (BS)
+-100 XP - Sergeant - +1 Wounds
+
++200 XP: Starting Balance/Well of Shadows (Initial session starting point).
++100 XP: The "Yellow Silk" / Ivy Manor Audit (Silent capture of "The Gaze").
++100 XP: The Great Park Heroics (Saving the Gala and critical success on Warp-Whistle).
++100 XP: Preventing the Collapse (Major Objective / Reik-Pipe Resonance Stop).
++100 XP: Mission Success (Temple of Ulric defense/investigation).
++75 XP: Defeating a Grey Seer & Stormvermin (Combat award).
++75 XP: Capture of Runner & Slaying of Assassin (Intelligence gathering).
++75 XP: The Cistern Sabotage (Navigating the Great Park Cisterns and Node 3 detonation).
++75 XP: The Palace Resonance (Shattering the Warp-spike and identifying the traitor's pilot-hole).
++50 XP: The Warehouse Clean-out (Surviving the Rat-man and Gutter Runner).
++50 XP: The Weaver's Cellar Stakeout (Holding the line as a "human chimney sweep").
++50 XP: Temple Roots Defense (Successful demolition and protection).
++30 XP: Leadership & Squad Tactics (Tactical command award).
++25 XP: The Merchant Shake-down (Clever use of Fellowship/Intimidate).
++25 XP: Roleplay Award (Interrogation & Bribes).
++25 XP: Sabotaging the Grand Nest (Square of Martials).
++25 XP: Capturing "The Golden Hand" alive.
++25 XP: Shattering the Altar Conduit (Ulric’s Favor).
+
+Total XP Gains: 1205 XP
+Total XP Spent: 700 XP
+RECONCILED BALANCE: 505 XP
+
+
 
 ---
 
@@ -41,6 +85,7 @@
 * **Search:** Finding the "good stuff" on a mutant's corpse.
 * **Dodge Blow:** (Ag) Staying alive in the coal-chute.
 * **Concealment/Silent Move:** For shadowing "tenants" in the fog.
+* **Disarm:** A successful WS test means you've knocked the weapon from your opponent's hand.
 
 ### Key Talents
 * **Specialist Weapon (Sling):** Basic range training.
@@ -126,3 +171,9 @@
 * **Health Audit:** CLEAN. No Tunnel Cough, No Warp-Taint, Fully Rested. Wounds: 7/7.
 * **Companion (Snapper):** Small But Vicious Dog. Wire-haired Terrier with intelligent black eyes and large teeth. Trots three inches from Gotthard’s left boot. Has a small leather pouch for "victory sausages."
 * **Trophy:** Rat Ogre Iron Collar & Teeth. Mounted over the hearth in the Sergeant’s Barracks.
+
+
+## VIII. Items "Pending Processing"
+* Weeping Blade, Grey Key, Warp-Token, Ledger | Loot: Palace Node
+* 2x Rusted Plate, 2x Skaven Halberds | Loot: Reik-Pipe Brutes
+* Warp-Hammer | Capture: Master-Toller’s Hammer
