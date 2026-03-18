@@ -67,8 +67,8 @@
 +25 XP: Shattering the Altar Conduit (Ulric’s Favor).
 
 Total XP Gains: 1205 XP
-Total XP Spent: 700 XP
-RECONCILED BALANCE: 505 XP
+Total XP Spent: 1200 XP
+RECONCILED BALANCE: 5 XP
 
 
 
