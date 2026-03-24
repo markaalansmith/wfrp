@@ -16,16 +16,16 @@
 | Stat | Base | Advance | Total |
 | :--- | :---: | :---: | :---: |
 | **Movement (M)** 			| 4 	| — 	| **4** |
-| **Weapon Skill (WS)** 	| 34 	| +40 	| **74** |
-| **Ballistic Skill (BS)** 	| 29 	| +30 	| **59** |
-| **Strength (S)** 			| 31 	| +10 	| **41 (SB: 4)** |
-| **Toughness (T)** 		| 30 	| +20 	| **50 (TB: 5)** |
-| **Wounds (W)** 			| 7 	| +4 	| **11** |
-| **Attacks (A)** 			| 1 	| +1 	| **2** |
-| **Agility (Ag)** 			| 33 	| +10 	| **43** |
-| **Intelligence (Int)** 	| 30 	| +10 	| **40** |
-| **Willpower (WP)** 		| 31 	| +10 	| **41** |
-| **Fellowship (Fel)** 		| 27 	| +20 	| **47** |
+| **Weapon Skill (WS)** 	| 34 	| + 20 	| **54** |
+| **Ballistic Skill (BS)** 	| 29 	| + 15 	| **44** |
+| **Strength (S)** 			| 31 	| + 10 	| **41 (SB: 4)** |
+| **Toughness (T)** 		| 30 	| + 10 	| **40 (TB: 4)** |
+| **Wounds (W)** 			| 7 	| + 4	| **11** |
+| **Attacks (A)** 			| 1 	| + 1 	| **2** |
+| **Agility (Ag)** 			| 33 	| + 10 	| **43** |
+| **Intelligence (Int)** 	| 30 	| + 10 	| **40** |
+| **Willpower (WP)** 		| 31 	| + 10 	| **41** |
+| **Fellowship (Fel)** 		| 27 	| + 20 	| **47** |
 | **Fate Points (FP)** | 3 | (1 Used/1 Earned) | **3** |
 Magic (Mag)
 Insanity Points (IP)
@@ -33,39 +33,42 @@ Insanity Points (IP)
 ### Advances History Log
 
 ## Experience Log
-#1  -100 XP - Rat Catcher - +10 Weapon Skill (WS)
+#0  -0   XP - Rat Catcher - +5 Weapon Skill (WS) - free inital upgrade
+#1  -100 XP - Rat Catcher - +5 Toughness (T)
 #2  -100 XP - on career change from Ratcatcher to Watchman
-#3  -100 XP - Watchman - +10 Ballistic Skill (BS)
-#4  -100 XP - Watchman - +10 Weapon Skill (WS) 
-#5  -100 XP - Watchman - +1 /+ 10 Toughness (T)  (1st vs 2nd edition)
+#3  -100 XP - Watchman - +5 Ballistic Skill (BS)
+#4  -100 XP - Watchman - +5 Weapon Skill (WS) 
+#5  -100 XP - Watchman - +5 Agility (Ag)
 #6  -100 XP - Watchman - Skill - Dodge Blow
 #7  -100 XP - Watchman - Skill - Intimidate
 #8  -100 XP - Watchman - Skill - Strike Mighty Blow
 #9  -100 XP - on career change from Watchman to Sergeant
-#12 -100 XP - Sergeant - Skill - Disarm
-#13 -100 XP - Sergeant - +10 Weapon Skill (WS) 
-#14 -100 XP - Sergeant - +10 Weapon Skill (WS) 
-#15 -100 XP - Sergeant - +10 Ballistic Skill (BS)
-#16 -100 XP - Sergeant - +10 Ballistic Skill (BS)
-#17 -100 XP - Sergeant - +1 /+ 10 Strength (S)  (1st vs 2nd edition)
-#18 -100 XP - Sergeant - +1 /+ 10 Toughness (T) (1st vs 2nd edition)
-#19 -100 XP - Sergeant - Agility +10 (Ag) (1st vs 2nd edition)
-#20 -100 XP - Sergeant - +10 Intelligence (Int)
-#21 -100 XP - Sergeant - +10 Willpower (WP)
-#22 -100 XP - Sergeant - +10 Fellowship (Fel)
-#23 -100 XP - Sergeant - +10 Fellowship (Fel)
-#24 -100 XP - Sergeant - +1 Attacks (A)
-#25 -100 XP - Sergeant - +1 Wounds
-#26 -100 XP - Sergeant - +1 Wounds
-#27 -100 XP - Sergeant - +1 Wounds
-#28 -100 XP - Sergeant - Skill - Ride 
-#29 -100 XP - Sergeant - Skill - Street Fighter
-#30 -100 XP - Sergeant - Skill - Command
+#10 -100 XP - Sergeant - Skill - Disarm
+#11 -100 XP - Sergeant - +5 Weapon Skill (WS) 
+#12 -100 XP - Sergeant - +5 Weapon Skill (WS)
+#13 -100 XP - Sergeant - +5 Ballistic Skill (BS)
+#14 -100 XP - Sergeant - +5 Ballistic Skill (BS)
+#15 -100 XP - Sergeant - +5 Strength (S)
+#16 -100 XP - Sergeant - +5 Strength (S)
+#17 -100 XP - Sergeant - +5 Toughness (T)
+#18 -100 XP - Sergeant - +5 Agility (Ag)
+#19 -100 XP - Sergeant - +5 Intelligence (Int)
+#20 -100 XP - Sergeant - +5 Intelligence (Int)
+#21 -100 XP - Sergeant - +5 Willpower (WP)
+#22 -100 XP - Sergeant - +5 Willpower (WP)
+#23 -100 XP - Sergeant - +5 Fellowship (Fel)
+#24 -100 XP - Sergeant - +5 Fellowship (Fel)
+#25 -100 XP - Sergeant - +5 Fellowship (Fel)
+#26 -100 XP - Sergeant - +5 Fellowship (Fel)
+#27 -100 XP - Sergeant - +1 Attacks (A)
+#28 -100 XP - Sergeant - +1 Wounds
+#29 -100 XP - Sergeant - +1 Wounds
+#30 -100 XP - Sergeant - +1 Wounds
 #31 -100 XP - Sergeant - +1 Wounds
-#32 -100 XP - PENDING
-#33 -100 XP - PENDING
-#34 -100 XP - PENDING
-#35 -100 XP - PENDING
+#32 -100 XP - Sergeant - Skill - Ride 
+#33 -100 XP - Sergeant - Skill - Street Fighter
+#34 -100 XP - Sergeant - Skill - Command
+#35 -100 XP - Sergeant - Skill - Academic Knowledge (Strategy/Tactics)
 
  
 +200 XP: Starting Balance/Well of Shadows (Initial session starting point).
