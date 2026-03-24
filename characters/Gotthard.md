@@ -5,14 +5,18 @@
 ---
 
 ## I. BIOGRAPHY
-**The Rat Catcher (The Skittering Years):** Gotthard stands at 5'9", though he rarely uses his full height, possessing a permanent hunch from years in low-ceilinged culverts. He is wiry and gaunt—a bundle of dried sticks held together by iron wire. His face is broad and fleshy, often described as a "slapped ham," with cynical, yellowed eyes peering through a patchy, soot-stained beard.
-**The Watch Sergeant (The Predator’s Crouch):** The nervous energy of the gutter has been tempered by the cold weight of command. The skittering has evolved into a tactical, deliberate grace. He moves with the surprising speed of a man who knows exactly how much steel he is carrying and exactly where to drive it. He carries the scent of tobacco, coal-smoke, and Dwarfen spirits—a walking armory that the City-Rock has learned to fear.
-**The "Living Legend" Guard (The Drakwald Road Persona):** This is Gotthard as he appeared leading the Steinhager & Sons caravan—a mercenary anchor in a world of "Whiffing" fops. The transformation from gutter-trash to "Living Legend" was a masterstroke of "Fop Finery" (Category B) meeting "Nuln-Steel Logic." Perched atop Borka, his Kislevite steppe-pony, Gotthard looked every bit the veteran Landsknecht who had seen the "Ballad of Collapse" and lived to audit the remains. He wore the Best Quality Traveler’s Suit: a riot of slashed-silk sleeves in midnight blue and crimson, the fabric straining over his wiry frame and reinforced with rugged leather strips. His breeches were charcoal-black, tucked into High-Quality Riding Boots of soft calfskin and thick boiled leather, glinting with silver spurs that hadn't seen a speck of mud until the first mile out of the North Gate.The "Industrial Groan" (Category B) of his gear was intimidating. His Nuln-Steel Halberd was held across his saddle, the head polished to a mirror sheen that caught the grey Middenheim sun. Over his mail shirt, his High-Quality Steel Breastplate reflected the campfire light, making him a beacon of order amidst the "Drakwald Shambles." Wrapped around his shoulders was the Wolfskin Cloak, the heavy fur smelling of cedar and old blood, and pinned to his inner lapel was the Witch-Hunter’s Mark, a silent promise of "Forceful Intervention" for any beastman bold enough to sniff at the wool-bales. He wasn't just a guard; he was a "Structural Necessity" come to life.
-**The Shadow:** This is Gotthard now: a "Gutter-Logic" phantom haunting the soot-choked corridors of the Gunnery School. The silk and silver have been "Redacted." In their place is the "Cloak of Boredom"—the ultimate weapon against bureaucratic sentinels. Gotthard is currently a "Dull-Eye" (Category A), disguised in a heavy, ink-stained Yellow Scribe’s Tabard, the livery of the Gunnery School's administrative wing. He moves with a "Rat-Logic" hunch, his broad "slapped-ham" face obscured by a Deep-Hooded Cloak of oiled canvas, pungent with the scent of coal-smoke and cheap vellum. He carries the Magister’s "Easy Logic" Lens on a cord, the brass monocle catching the violet flicker of warp-taint as he "audits" coal supplies.Beneath the ink-stained tabard, the "Hardware" is purely clinical. There is no halberd here; instead, he carries a Weighted Cosh on a spring-loaded sleeve-rig and the Weeping Stiletto tucked into his Soft-Soled Boots. Around his neck hangs the "Silent Key" (the brass tuning fork), used to mimic the idle thrum of the clockwork sentinels. He smells of Vitriol Acid and "Black-Grit" Paste, a walking mechanical seizure waiting to happen. To any guard, he is just another tired clerk waiting for his lunch break, but in his pocket, the heavy, cast-iron Guild Signet provides the "Diplomatic Friction" required to bypass the iron gates of Room 402.
+**The Rat Catcher** (The Skittering Years): Gotthard stands at 5'9", though he rarely uses his full height, possessing a permanent hunch from years in low-ceilinged culverts. He is wiry and gaunt—a bundle of dried sticks held together by iron wire. His face is broad and fleshy, often described as a "slapped ham," with cynical, yellowed eyes peering through a patchy, soot-stained beard.
+The Watch Sergeant (The Predator’s Crouch): The nervous energy of the gutter has been tempered by the cold weight of command. The skittering has evolved into a tactical, deliberate grace. He moves with the surprising speed of a man who knows exactly how much steel he is carrying and exactly where to drive it. He carries the scent of tobacco, coal-smoke, and Dwarfen spirits—a walking armory that the City-Rock has learned to fear.
+
+**The "Living Legend" Guard (The Drakwald Road Persona)**: This is Gotthard as he appeared leading the Steinhager & Sons caravan—a mercenary anchor in a world of "Whiffing" fops. The transformation from gutter-trash to "Living Legend" was a masterstroke of "Fop Finery" (Category B) meeting "Nuln-Steel Logic." Perched atop Borka, his Kislevite steppe-pony, Gotthard looked every bit the veteran Landsknecht who had seen the "Ballad of Collapse" and lived to audit the remains. He wore the Best Quality Traveler’s Suit: a riot of slashed-silk sleeves in midnight blue and crimson, the fabric straining over his wiry frame and reinforced with rugged leather strips. His breeches were charcoal-black, tucked into High-Quality Riding Boots of soft calfskin and thick boiled leather, glinting with silver spurs that hadn't seen a speck of mud until the first mile out of the North Gate.The "Industrial Groan" (Category B) of his gear was intimidating. His Nuln-Steel Halberd was held across his saddle, the head polished to a mirror sheen that caught the grey Middenheim sun. Over his mail shirt, his High-Quality Steel Breastplate reflected the campfire light, making him a beacon of order amidst the "Drakwald Shambles." Wrapped around his shoulders was the Wolfskin Cloak, the heavy fur smelling of cedar and old blood, and pinned to his inner lapel was the Witch-Hunter’s Mark, a silent promise of "Forceful Intervention" for any beastman bold enough to sniff at the wool-bales. He wasn't just a guard; he was a "Structural Necessity" come to life.
+
+**The Shadow**: This is Gotthard now: a "Gutter-Logic" phantom haunting the soot-choked corridors of the Gunnery School. The silk and silver have been "Redacted." In their place is the "Cloak of Boredom"—the ultimate weapon against bureaucratic sentinels. Gotthard is currently a "Dull-Eye" (Category A), disguised in a heavy, ink-stained Yellow Scribe’s Tabard, the livery of the Gunnery School's administrative wing. He moves with a "Rat-Logic" hunch, his broad "slapped-ham" face obscured by a Deep-Hooded Cloak of oiled canvas, pungent with the scent of coal-smoke and cheap vellum. He carries the Magister’s "Easy Logic" Lens on a cord, the brass monocle catching the violet flicker of warp-taint as he "audits" coal supplies.Beneath the ink-stained tabard, the "Hardware" is purely clinical. There is no halberd here; instead, he carries a Weighted Cosh on a spring-loaded sleeve-rig and the Weeping Stiletto tucked into his Soft-Soled Boots. Around his neck hangs the "Silent Key" (the brass tuning fork), used to mimic the idle thrum of the clockwork sentinels. He smells of Vitriol Acid and "Black-Grit" Paste, a walking mechanical seizure waiting to happen. To any guard, he is just another tired clerk waiting for his lunch break, but in his pocket, the heavy, cast-iron Guild Signet provides the "Diplomatic Friction" required to bypass the iron gates of Room 402.
+
 ---
 
 ## II. CHARACTERISTICS (Official v1 Profile)
 
+### Character Stats
 | Stat | Base | Advance | Total |
 | :--- | :---: | :---: | :---: |
 | **Movement (M)** 			| 4 	| — 	| **4** |
@@ -32,7 +36,7 @@ Insanity Points (IP)
 
 ### Advances History Log
 
-## Experience Log
+### Experience Log
 #0  -0   XP - Rat Catcher - +5 Weapon Skill (WS) - free inital upgrade
 #1  -100 XP - Rat Catcher - +5 Toughness (T)
 #2  -100 XP - on career change from Ratcatcher to Watchman
@@ -107,9 +111,9 @@ Insanity Points (IP)
 +100 XP: The Boar's Throat Victory For the ridge-sweep (Globadiers), focus-firing the Warp-fire team, and the "Blat-Blat-Blat" execution of the Rat-Ogre.
 +100 XP: The Broken Axle Defense,"Holding the line while Jürgen performed the ""Mechanical Fix"" on the Grey Wagon." For reinstating the "Foundational Asset," securing the Nuln Powder, and the "Grey Ledger" intel.
 
-Total XP Gains: 3520 XP
-Total XP Spent: 2500 XP
-RECONCILED BALANCE: 20 XP
+#### Total XP Gains: 3520 XP
+#### Total XP Spent: 3500 XP
+#### RECONCILED BALANCE: 20 XP
 
 
 
@@ -180,14 +184,14 @@ RECONCILED BALANCE: 20 XP
 * **2x Dried Sausages:** Rations.
 * **1x Fire-Pots:** Ceramic flask filled with oil and a slow-match.
 * **Watch-Grade Tobacco: HEAVY SUPPLY. ("Rhythmic, Heavy" stress-reliever).
-* **3 Anti-toxins:**Acquired from Janna Eberhau
-4 Barrels Nuln Black Powder
+* **3 Anti-toxins**: Acquired from Janna Eberhau
+* **4 Barrels Nuln Black Powder**
 
 ### The "High-Logic" & Arcane
 * **Magister’s "Easy Logic" Lens:** A small magically-ground monocle on a leather cord. Peer through to see Magical Auras or Warp-Taint through up to 1 foot of solid stone or wood ($+20\%$ Perception for magical traps/secret doors).
 * **Meteoric Wolf Amulet:** Provides $+10\%$ Magic Resistance vs Chaos/Warp Magic and a permanent $+1$ to all Willpower tests vs corruption/mutation.
 * **Brass Warp-Whistle:** Jagged, pulsing with sickly warmth. Triggers Skaven "frequencies."
-* **Wolf-Paw Talisman:**A dried paw on a leather cord. It provides a permanent $+10\%$ to all Fear/Terror tests
+* **Wolf-Paw Talisman:** A dried paw on a leather cord. It provides a permanent $+10\%$ to all Fear/Terror tests
 * **2x Vial of "Liquid Fear":** An oily, unsettling Skaven concoction.
 * **1x Healing Potions:** (College of Magic) Tucked in a reinforced belt pouch.
 * **1x Vials of Blessed Oil:** Can be applied to a weapon to deal an extra $1d6$ damage to Undead or Chaos-tainted creatures for one combat
@@ -210,12 +214,9 @@ RECONCILED BALANCE: 20 XP
 ### Engineer's "Shadow-Kit" Satchel
 * **"The ""Silent Key""":** A brass tuning fork.,"When struck, it mimics the ""Idle-Thrum"" of the room. Masks your movement."
 * **Vitriol Acid (1 Phials):** Eats through brass housing.,"Dissolves the ""Lumbar Assembly"" instantly."
-* **"""Black-Grit"" Paste":** Fine volcanic sand in heavy grease.,"Jams the high-speed gears, causing a Mechanical Seizure." You have enough grit left for one small "Mechanical Intervention." You can jam a lock or a single small gear, but you cannot perform another "Total Systemic Shutdown" until we restock.
+* **Black-Grit Paste:** Fine volcanic sand in heavy grease.,Jams the high-speed gears, causing a Mechanical Seizure." You have enough grit left for one small "Mechanical Intervention." You can jam a lock or a single small gear, but you cannot perform another "Total Systemic Shutdown" until we restock.
 * **Magnetic Slag,Polarized iron filings":** Scrambles the ""Vibration-Resonance"" sensors. They go ""Blind."""
 
-
-### Triple Locked Iron-Bound Chest
-20 Gold Ingots Value: 100 GC each. Each stamped with the "Gunnery School" seal.
 
 Silver Letter Opener	Scribe's Sleeve	Value: 3 GC. Shaped like a griffon’s wing.
 Fine Surgical Steel,Moulder's Kit,"The Scalpels: (15 GC). High-quality, non-tainted Imperial steel. These are ""Surgical Instruments"" (Category B) used for ""Clinical Repairs"" or interrogation."
@@ -237,9 +238,8 @@ Master Resonance Key	The actual key to Thorne’s private city residence.
 ## VI. WEALTH & REPUTATION
 
 ### Wealth Ledger
-* **Personal Stash:** 971 Gold Crowns, 19 Shillings, 4 Pennies;
-13s 4d - skaven purse shared on caravan
-
+* **Personal Stash:** 1122 Gold Crowns, 12 Shillings, 8 Pennies.
+The "Quiet" Reserve: 20 Gold Ingots (100 GC each) Each stamped with the "Gunnery School" seal & stored in the Triple-Locked Iron Chest at the Warehouse.
 
 
 ### REPUTATION & STANDINGS
