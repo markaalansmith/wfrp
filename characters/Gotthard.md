@@ -163,7 +163,6 @@ Insanity Points (IP)
 * **High-Quality Pistol:** +5% BS; Short-barreled, reliable, with a mahogany grip and carry a "Forceful Impact" at point-blank.
 * **Best Quality Silvered Arming Sword:** It’s perfectly balanced (+10% WS); Bypasses the "Routine Armor" of the warp-tainted.
 * **High-Quality Weeping Stiletto:** +5% WS; Coated in a faint "Biological Variable" to ensure the wound never performs a "Natural Recovery."
-* **Best Quality Weighted Cosh:** +10% WS; For when a "Variable" is more valuable alive than "Redacted."
 * **Standard Rat Catcher's Sling:** Strength-based damage; The "Silent Variable" for long-range pestering.
 
 ### The "Foundational Shield": Armor
@@ -185,24 +184,18 @@ Insanity Points (IP)
 * **Rat-Trapping Kit:** Assorted spring-traps, wire snares, and vials of pungent attractant/bait.
 * **Scholar's Loupe:** High-quality glass for fine inspection of seals or wounds.
 * **Watchman's Whistle:** High-pitched brass for calling backup.
-* **Lantern & Oil:** Essential for tunnel work.
-* **New flint-and-steel**
+* **Lantern & Oil:** Essential for tunnel work with **New flint-and-steel**
 * **15 Yards of Rope:** Standard Watch issue.
-* * **Saddle & Tac** High-Quality travel gear.
-* **Silver Letter Opener:** Shaped like a griffon’s wing Value: 3 GC.  
-- **Fine Surgical Steel Scalpels:** High-quality, non-tainted Imperial steel. Value: 15 GC 
-- **Amber Pebble**, A smooth, warm stone. It holds a ""Low-Frequency"" glow. It might be a ""Natural Buffer"" or simply a ""Merchant's Trinket."""
-- **Guild Signet:** The "Get Out of Jail Free" Card for the Iron Company - a Cast-Iron stamp  for the Iron Company.  It identifies you as an "Official Inspector" or "Asset" of the Nuln Gunnery School/Iron Company. It gets you through tolls, into warehouses, and into the "Mechanical Hearts" of cities.
+* **Saddle & Tac** High-Quality travel gear.
+* **Guild Signet:** The "Get Out of Jail Free" Card for the Iron Company - a Cast-Iron stamp  for the Iron Company.  It identifies you as an "Official Inspector" or "Asset" of the Nuln Gunnery School/Iron Company. It gets you through tolls, into warehouses, and into the "Mechanical Hearts" of cities.
 - **Von Bruner Signet Ring:** The Silver Signet. Return this to the family in Middenheim for Noble influence. A Substantial Social Asset.
 - **Von Bruner Signet Ring:** - *DAMAGED* - Recovered from the Scribe. Return this to the family in Middenheim for Noble influence. A Substantial Social Asset.
-- **Lead Satchel #1**
-- **Lead Satchel #2**
-- **Lead Satchel #3**
 - **Thorne’s Personal Satchel** (Leather) containing the Master Key and his Middenheim Correspondence
 - **Master Resonance Key** The actual key to Thorne’s private city residence.
+- **Lead Satchel**
 
 ### Consumables & Morale
-* **1 bottle of Dwarven Spirits:** High-proof alcohol (Disinfectant/Morale).
+* **1 Bottle of Dwarven Spirits:** High-proof alcohol (Disinfectant/Morale).
 * **1 Bottle of Reikland Gold Wine:** A rare luxury.
 * **2x Dried Sausages:** Rations.
 * **1x Fire-Pots:** Ceramic flask filled with oil and a slow-match.
@@ -228,16 +221,16 @@ Insanity Points (IP)
 * **Thick Leather Belt:** Simple iron buckle.
 * **Wolfskin Cloak:**
 
-### The Sneaky Scribe Look - Not equipped
-* A heavy, ink-stained Yellow Scribe’s Tabard (the livery of the Gunnery School's administrative wing) with a Weighted Cosh up the sleeve on a spring-loaded "Rat-Logic"
-* A pair of Dark Woolen Breeches. 
-* A Deep-Hooded Cloak made of oiled canvas with Hidden Internal Pouches
-* Soft-Soled Boots 
+### The Sneaker - In a small satchel & not equipped
+- A **dark tunic** of charcoal wool
+- A pair of dark woolen breeches. 
+- A Deep-Hooded Cloak made of oiled canvas with Hidden Internal Pouches
+- Soft-Soled Boots 
 
 ### Engineer's "Shadow-Kit" Satchel
-* **"The ""Silent Key""":** A brass tuning fork.,"When struck, it mimics the ""Idle-Thrum"" of the room. Masks your movement."
-* **Vitriol Acid (1 Phials):** Eats through brass housing.,"Dissolves the ""Lumbar Assembly"" instantly."
-* **Black-Grit Paste:** Fine volcanic sand in heavy grease.,Jams the high-speed gears, causing a Mechanical Seizure." You have enough grit left for one small "Mechanical Intervention." You can jam a lock or a single small gear, but you cannot perform another "Total Systemic Shutdown" until we restock.
+* **The Silent Key:** A brass tuning fork. When struck, it mimics the ""Idle-Thrum"" of the room. Masks your movement.
+* **Vitriol Acid (1 Phials):** Eats through brass housing
+* **Black-Grit Paste:** Fine volcanic sand in heavy grease. You have enough grit left for one small "Mechanical Intervention." You can jam a lock or a single small gear, but you cannot perform another "Total Systemic Shutdown" until we restock.
 * **Magnetic Slag,Polarized iron filings":** Scrambles the ""Vibration-Resonance"" sensors. They go ""Blind."""
 
 
