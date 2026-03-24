@@ -10,6 +10,11 @@
 * **Whiff** (and all variations: "Whiff-fest," "A whiff of...")
 * **Muck**
 * **Soot**
+* **Structural**
+* **Systemic**
+* **Audit**
+* **Redacted**
+* **Sensory Aggression**
 
 ---
 
@@ -30,6 +35,7 @@
 | **Decay/Filth** | "Putrescent seepage," "viscous urban bile," "miasmatic discharge," "feculent crust." |
 | **Failure/Mess** | "A bureaucratic catastrophe," "a cluster-fop of local law," "a spectacular lack of coordination." |
 | **Smells** | "The metallic tang of old blood," "cloying scent of cheap pomade," "the sharp sting of lye." |
+
 
 ---
 
