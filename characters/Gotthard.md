@@ -201,10 +201,10 @@ Insanity Points (IP)
 * **1x Fire-Pots:** Ceramic flask filled with oil and a slow-match.
 * **Watch-Grade Tobacco: HEAVY SUPPLY. ("Rhythmic, Heavy" stress-reliever).
 * **3 Anti-toxins**: Acquired from Janna Eberhau
-* **4 Barrels Nuln Black Powder**
-* **2x Vials of "Liquid Fear":** An oily, unsettling Skaven concoction.
-* **1x Healing Potions:** (College of Magic) Tucked in a reinforced belt pouch.
+* * **2x Vials of "Liquid Fear":** An oily, unsettling Skaven concoction.
+* **3x Healing Potions:**  Tucked in a reinforced belt pouch.
 * **1x Vials of Blessed Oil:** Can be applied to a weapon to deal an extra $1d6$ damage to Undead or Chaos-tainted creatures for one combat
+* **4 Barrels Nuln Black Powder**
 
 ### The "High-Logic" & Arcane
 * **Magister’s "Easy Logic" Lens:** A small magically-ground monocle on a leather cord. Peer through to see Magical Auras or Warp-Taint through up to 1 foot of solid stone or wood ($+20\%$ Perception for magical traps/secret doors).
@@ -223,15 +223,15 @@ Insanity Points (IP)
 
 ### The Sneaker - In a small satchel & not equipped
 - A **dark tunic** of charcoal wool
-- A pair of dark woolen breeches. 
-- A Deep-Hooded Cloak made of oiled canvas with Hidden Internal Pouches
+- A pair of **dark breeches** of charcoal wool. 
+- A **dark Deep-Hooded Cloak** made of oiled canvas with Hidden Internal Pouches
 - Soft-Soled Boots 
 
 ### Engineer's "Shadow-Kit" Satchel
 * **The Silent Key:** A brass tuning fork. When struck, it mimics the ""Idle-Thrum"" of the room. Masks your movement.
-* **Vitriol Acid (1 Phials):** Eats through brass housing
-* **Black-Grit Paste:** Fine volcanic sand in heavy grease. You have enough grit left for one small "Mechanical Intervention." You can jam a lock or a single small gear, but you cannot perform another "Total Systemic Shutdown" until we restock.
-* **Magnetic Slag,Polarized iron filings":** Scrambles the ""Vibration-Resonance"" sensors. They go ""Blind."""
+* **Vitriol Acid (3 Phials):** Eats through brass housing
+* **Black-Grit Paste:** Fine volcanic sand in heavy grease.
+* **Magnetic Slag & Polarized iron filings":** Scrambles the ""Vibration-Resonance"" sensors. They go ""Blind."""
 
 
 ---
@@ -239,7 +239,7 @@ Insanity Points (IP)
 ## VI. WEALTH & REPUTATION
 
 ### Wealth Ledger
-* **Personal Stash:** 1122 Gold Crowns, 12 Shillings, 8 Pennies.
+* **Personal Stash:** 1128 Gold Crowns, 12 Shillings, 8 Pennies.
 The "Quiet" Reserve: 20 Gold Ingots (100 GC each) Each stamped with the "Gunnery School" seal & stored in the Triple-Locked Iron Chest at the Warehouse.
 
 
