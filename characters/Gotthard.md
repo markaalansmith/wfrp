@@ -37,6 +37,7 @@ Insanity Points (IP)
 ### Advances History Log
 
 ### Experience Log
+#### Advances Taken
 #0  -0   XP - Rat Catcher - +5 Weapon Skill (WS) - free inital upgrade
 #1  -100 XP - Rat Catcher - +5 Toughness (T)
 #2  -100 XP - on career change from Ratcatcher to Watchman
@@ -74,7 +75,7 @@ Insanity Points (IP)
 #34 -100 XP - Sergeant - Skill - Command
 #35 -100 XP - Sergeant - Skill - Academic Knowledge (Strategy/Tactics)
 
- 
+#### Experience Gained
 +200 XP: Starting Balance/Well of Shadows (Initial session starting point).
 +100 XP: The "Yellow Silk" / Ivy Manor Audit (Silent capture of "The Gaze").
 +100 XP: The Great Park Heroics (Saving the Gala and critical success on Warp-Whistle).
@@ -168,6 +169,10 @@ Insanity Points (IP)
 
 ## V. GEAR & SPECIAL ITEMS
 
+### Companions
+**Dog** - *Snapper* - Small But Vicious Dog. Wire-haired Terrier with intelligent black eyes and large teeth. Trots three inches from Gotthard’s left boot. Has a small leather pouch for "victory sausages."
+
+**Riding Horse** - *Borka* - Kislevite Steppe-pony).
 ### The Professional Kit
 * **Rat-Trapping Kit:** Assorted spring-traps, wire snares, and vials of pungent attractant/bait.
 * **Scholar's Loupe:** High-quality glass for fine inspection of seals or wounds.
@@ -175,8 +180,18 @@ Insanity Points (IP)
 * **Lantern & Oil:** Essential for tunnel work.
 * **New flint-and-steel**
 * **15 Yards of Rope:** Standard Watch issue.
-* **Riding Horse** "Borka" (Kislevite Steppe-pony).
-* **Saddle & Tac** High-Quality travel gear.
+* * **Saddle & Tac** High-Quality travel gear.
+* **Silver Letter Opener:** Shaped like a griffon’s wing Value: 3 GC.  
+- **Fine Surgical Steel Scalpels:** High-quality, non-tainted Imperial steel. Value: 15 GC 
+- **Amber Pebble**, A smooth, warm stone. It holds a ""Low-Frequency"" glow. It might be a ""Natural Buffer"" or simply a ""Merchant's Trinket."""
+- **Guild Signet:** The "Get Out of Jail Free" Card for the Iron Company - a Cast-Iron stamp  for the Iron Company.  It identifies you as an "Official Inspector" or "Asset" of the Nuln Gunnery School/Iron Company. It gets you through tolls, into warehouses, and into the "Mechanical Hearts" of cities.
+- **Von Bruner Signet Ring:** The Silver Signet. Return this to the family in Middenheim for Noble influence. A Substantial Social Asset.
+- **Von Bruner Signet Ring:** - *DAMAGED* - Recovered from the Scribe. Return this to the family in Middenheim for Noble influence. A Substantial Social Asset.
+- **Lead Satchel #1**
+- **Lead Satchel #2**
+- **Lead Satchel #3**
+- **Thorne’s Personal Satchel** (Leather) containing the Master Key and his Middenheim Correspondence
+- **Master Resonance Key** The actual key to Thorne’s private city residence.
 
 ### Consumables & Morale
 * **1 bottle of Dwarven Spirits:** High-proof alcohol (Disinfectant/Morale).
@@ -186,17 +201,17 @@ Insanity Points (IP)
 * **Watch-Grade Tobacco: HEAVY SUPPLY. ("Rhythmic, Heavy" stress-reliever).
 * **3 Anti-toxins**: Acquired from Janna Eberhau
 * **4 Barrels Nuln Black Powder**
+* **2x Vials of "Liquid Fear":** An oily, unsettling Skaven concoction.
+* **1x Healing Potions:** (College of Magic) Tucked in a reinforced belt pouch.
+* **1x Vials of Blessed Oil:** Can be applied to a weapon to deal an extra $1d6$ damage to Undead or Chaos-tainted creatures for one combat
 
 ### The "High-Logic" & Arcane
 * **Magister’s "Easy Logic" Lens:** A small magically-ground monocle on a leather cord. Peer through to see Magical Auras or Warp-Taint through up to 1 foot of solid stone or wood ($+20\%$ Perception for magical traps/secret doors).
 * **Meteoric Wolf Amulet:** Provides $+10\%$ Magic Resistance vs Chaos/Warp Magic and a permanent $+1$ to all Willpower tests vs corruption/mutation.
 * **Brass Warp-Whistle:** Jagged, pulsing with sickly warmth. Triggers Skaven "frequencies."
 * **Wolf-Paw Talisman:** A dried paw on a leather cord. It provides a permanent $+10\%$ to all Fear/Terror tests
-* **2x Vial of "Liquid Fear":** An oily, unsettling Skaven concoction.
-* **1x Healing Potions:** (College of Magic) Tucked in a reinforced belt pouch.
-* **1x Vials of Blessed Oil:** Can be applied to a weapon to deal an extra $1d6$ damage to Undead or Chaos-tainted creatures for one combat
 * **Witch-Hunter’s Mark of Passage:** pinned on inner lapel
-* **Witch-Hunter’s Sanctified Cloak-Pin:**(A small silver hammer). This identifies you as Heidegger the High Witch-Hunter’s'Surgical Proxy
+* **Witch-Hunter’s Sanctified Cloak-Pin:** *(A small silver hammer)*. This identifies you as Heidegger the High Witch-Hunter's Surgical Proxy
 
 ### Uniform & Finery (The "Living Legend" Look)
 * **Landsknecht Veteran Suit:** Best Quality Traveler’s Suit. It’s the full Landsknecht: heavy slashed-silk sleeves in midnight blue and crimson, reinforced with leather strips, and tight, reinforced charcoal breeches
@@ -218,21 +233,6 @@ Insanity Points (IP)
 * **Magnetic Slag,Polarized iron filings":** Scrambles the ""Vibration-Resonance"" sensors. They go ""Blind."""
 
 
-Silver Letter Opener	Scribe's Sleeve	Value: 3 GC. Shaped like a griffon’s wing.
-Fine Surgical Steel,Moulder's Kit,"The Scalpels: (15 GC). High-quality, non-tainted Imperial steel. These are ""Surgical Instruments"" (Category B) used for ""Clinical Repairs"" or interrogation."
-Amber Pebble,Curiosity,"A smooth, warm stone. It holds a ""Low-Frequency"" glow. It might be a ""Natural Buffer"" or simply a ""Merchant's Trinket."""
-Guild Signet: The "Get Out of Jail Free" Card for the Iron Company - a Cast-Iron stamp for the Iron Company - The "Work-Pass": Heavy, cast-iron. This is your Active Identity. It identifies you as an "Official Inspector" or "Asset" of the Nuln Gunnery School/Iron Company. It gets you through tolls, into warehouses, and into the "Mechanical Hearts" of cities.
-Von Bruner Signet Ring,Social Advancement,"The Silver Signet: A ""Substantial Asset"" (Category B). Returning this to the family in Middenheim is a ""Primary Key"" for Noble influence. It’s ""Clinical Proof"" of your reliability." 
-Von Bruner Silver Signet Ring,"DAMAGED. Recovered from the Scribe; remains a ""Substantial Social Asset."""
-Lead Satchel #1
-Lead Satchel #2
-Lead Satchel #3
-
-Thorne’s Personal Satchel (Leather) containing the Master Key and his Middenheim Correspondence.
-Master Resonance Key	The actual key to Thorne’s private city residence.
-
-
-
 ---
 
 ## VI. WEALTH & REPUTATION
@@ -244,35 +244,30 @@ The "Quiet" Reserve: 20 Gold Ingots (100 GC each) Each stamped with the "Gunnery
 
 ### REPUTATION & STANDINGS
 
-| Faction | Standing / Title | Mechanical Effect & Field Notes |
-| :--- | :--- | :--- |
-| **Dwarfen Engineers** | MAX (Blood-Brother) | **+25% Fel.** Grumli’s kin will dig a hole or arm a fortress for you. |
-| **Temple of Ulric** | "The Wolf’s Warden" | **+20% Fel.** High Priest Vulfgang views you as Ulric’s own hound. |
-| **Steinhager & Sons** | **EXALTED PATRON** | **+25% Fel.** Total loyalty. Access to credit and "Merchant Intel." |
-| **North District Watch** | "The Giant-Killer" | **+20% Fel.** They follow your lead into any "Systemic Furnace." |
-| **Witch-Hunters** | **PEER RESPECT** | **+20% Fel.** Heidegger views you as a "Surgical Equal." |
-| **Traditionalist Engineers**| Ally (Meinkopt) | **+20% Fel.** You hold the Guild Signet; you are an "Inspector." |
-| **Solkanite Hunters** | **ALLIED (Kessel)** | **+20% Fel.** Shared resonance. "Tools of Order" (Category B). |
-| **Common Folk** | "The Giant-Killer" | **+15% Fel.** Pints are free. Your name is a "Foundational Fact." |
-| **Military (Marshals)** | "Protege" | **+10% Fel.** Seen as a gritty, essential "Total Asset." |
-| **Nuln Intel Operatives** | Official Agent | **Shadow License:** +10% Intimidate / -10% Fel with Nobles. |
-| **The Under-City** | Fear (Total Ownership)| **Leverage:** Assets like Pavel are owned (Cool Test -20). |
-| **High Society** | "The Shadow" | **0% Fel Penalty.** The Graf's seal provides "Diplomatic Friction." |
+| Faction                      | Standing / Title       | Mechanical Effect & Field Notes                                       |
+| :--------------------------- | :--------------------- | :-------------------------------------------------------------------- |
+| **Dwarfen Engineers**        | MAX (Blood-Brother)    | **+25% Fel.** Grumli’s kin will dig a hole or arm a fortress for you. |
+| **Temple of Ulric**          | "The Wolf’s Warden"    | **+20% Fel.** High Priest Vulfgang views you as Ulric’s own hound.    |
+| **Steinhager & Sons**        | **EXALTED PATRON**     | **+25% Fel.** Total loyalty. Access to credit and "Merchant Intel."   |
+| **North District Watch**     | "The Giant-Killer"     | **+20% Fel.** They follow your lead into any "Systemic Furnace."      |
+| **Witch-Hunters**            | **PEER RESPECT**       | **+20% Fel.** Heidegger views you as a "Surgical Equal."              |
+| **Traditionalist Engineers** | Ally (Meinkopt)        | **+20% Fel.** You hold the Guild Signet; you are an "Inspector."      |
+| **Solkanite Hunters**        | **ALLIED (Kessel)**    | **+20% Fel.** Shared resonance. "Tools of Order" (Category B).        |
+| **Common Folk**              | "The Giant-Killer"     | **+15% Fel.** Pints are free. Your name is a "Foundational Fact."     |
+| **Military (Marshals)**      | "Protege"              | **+10% Fel.** Seen as a gritty, essential "Total Asset."              |
+| **Nuln Intel Operatives**    | Official Agent         | **Shadow License:** +10% Intimidate / -10% Fel with Nobles.           |
+| **The Under-City**           | Fear (Total Ownership) | **Leverage:** Assets like Pavel are owned (Cool Test -20).            |
+| **High Society**             | 0% Fel Penalty         | The Graf's seal provides "Diplomatic Friction." \|                    |
+
+
 ---
 
-## VII. STATUS & COMPANION
-* **Health Audit:** CLEAN. No Tunnel Cough, No Warp-Taint, Fully Rested. Wounds: 7/7.
-* **Companion (Snapper):** Small But Vicious Dog. Wire-haired Terrier with intelligent black eyes and large teeth. Trots three inches from Gotthard’s left boot. Has a small leather pouch for "victory sausages."
-* **Trophy:** Rat Ogre Iron Collar & Teeth. Mounted over the hearth in the Sergeant’s Barracks.
+## VII. STATUS & REPUTATION
+* **Health Audit:** CLEAN
 * **The High Priest’s Blessing:** Effect: You gain a +10 bonus to your next Fate Point reroll.
 * **The Blessing of the Dove:** Effect: You gain a +10% Bonus to your next Toughness or Healing test.
 
-
-## VIII. Items "Pending Processing"
-
-
-
-
+## 
 ### I. THE MIDDENHEIM AUDIT (City of the White Wolf)
 | Name | Standing / Relationship | Status |
 | :--- | :--- | :--- |
@@ -318,6 +313,8 @@ The "Quiet" Reserve: 20 Gold Ingots (100 GC each) Each stamped with the "Gunnery
 | **Elias Thorne** | The Great Enemy; Master of the Ozone Leak. Target of Scrutiny. | Alive |
 | **Thorne’s Engineers** | Resonance-Logic technicians; Priority "Erasure" Targets. | Alive |
 - 
+
+## VIII. Items "Pending Processing"
 
 
 ### Loose Notes
